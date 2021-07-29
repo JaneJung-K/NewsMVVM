@@ -13,6 +13,7 @@
 * Vertical StackView.  
 * AutoLayout.  
 * Content Hugging Priority.  
+* URLSession
 
 이미지
 =============
